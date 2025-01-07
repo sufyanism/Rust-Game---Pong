@@ -1,0 +1,8 @@
+C:\Users\Jaskiran Kaur\Desktop\rust_pong_game-master\target\debug\deps\libowned_ttf_parser-2095d7dcbb9ddf00.rmeta: C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\lib.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\convert.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\owned.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\preparse.rs
+
+C:\Users\Jaskiran Kaur\Desktop\rust_pong_game-master\target\debug\deps\owned_ttf_parser-2095d7dcbb9ddf00.d: C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\lib.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\convert.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\owned.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\preparse.rs
+
+C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\lib.rs:
+C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\convert.rs:
+C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\owned.rs:
+C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\preparse.rs:

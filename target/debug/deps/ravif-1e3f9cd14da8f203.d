@@ -1,0 +1,10 @@
+C:\Users\Jaskiran Kaur\Desktop\rust_pong_game-master\target\debug\deps\libravif-1e3f9cd14da8f203.rmeta: C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src/lib.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src\av1encoder.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src\error.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src\dirtyalpha.rs
+
+C:\Users\Jaskiran Kaur\Desktop\rust_pong_game-master\target\debug\deps\libravif-1e3f9cd14da8f203.rlib: C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src/lib.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src\av1encoder.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src\error.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src\dirtyalpha.rs
+
+C:\Users\Jaskiran Kaur\Desktop\rust_pong_game-master\target\debug\deps\ravif-1e3f9cd14da8f203.d: C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src/lib.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src\av1encoder.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src\error.rs C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src\dirtyalpha.rs
+
+C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src/lib.rs:
+C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src\av1encoder.rs:
+C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src\error.rs:
+C:\Users\Jaskiran\ Kaur\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ravif-0.11.11\src\dirtyalpha.rs:
