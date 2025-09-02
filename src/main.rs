@@ -47,8 +47,7 @@ impl App {
         self.gl.draw(args.viewport(), |c, gl| {
             clear(BACKGROUND, gl);
             rectangle(FOREGROUND, left, c.transform.trans(-40.0, left_pos), gl);
-            rectangle(FOREGROUND, right, c.transform.trans(-60.0, right_pos), gl);
-
+            rectangle(FOREGROUND, right, c.transform.trans(500.0, right_pos), gl);
             rectangle(FOREGROUND, ball, c.transform.trans(ball_x, ball_y), gl);
         });
     }
