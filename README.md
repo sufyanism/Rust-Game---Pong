@@ -7,14 +7,15 @@ A simple implementation of the classic Pong game built in Rust. This project sho
 ## Setup & Installation
 ```
 # Clone the repository
-git clone https://github.com/sufyanism/Rust-Game---Pong.git
-cd Rust-Game---Pong
+`git clone https://github.com/sufyanism/Rust-Game---Pong.git`
+`cd Rust-Game---Pong`
 
 # Build the project
-cargo build
+`cargo build`
 
 # Run the game
-cargo run
+`cargo run`
+
 # Rust Pong Game.
 It simulates a table tennis match where two players control their paddles while attempting to hit the ball past their opponent.
 ```
