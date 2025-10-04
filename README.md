@@ -16,8 +16,6 @@ A simple implementation of the classic Pong game built in Rust. This project sho
 # Run the game
 `cargo run`
 
-# Rust Pong Game.
-It simulates a table tennis match where two players control their paddles while attempting to hit the ball past their opponent.
 ```
 
 </br>
