@@ -22,7 +22,7 @@ It simulates a table tennis match where two players control their paddles while 
 
 </br>
 
-### Tools and Libraries
+## Tools and Libraries
 *	Piston: A modular game engine in Rust. It provides functionalities such as handling events (keyboard, mouse, etc.), rendering graphics, and managing game windows.
 *	OpenGL: A widely-used graphics library that helps render 2D and 3D graphics. The opengl_graphics crate is used to interface with OpenGL for rendering.
 *	Graphics: A simple library that provides useful primitives (like rectangles) for rendering graphics in a 2D space.
@@ -44,7 +44,9 @@ The game window contains:
 - **Ball:** bounces off paddles and window edges
 - **Score:** (to be implemented)
 
-### Gameplay loop:
+</br>
+
+## Gameplay loop:
 1. Handle user input to move paddles
 2. Update ball position based on velocity
 3. Detect collisions with paddles and window bounds
@@ -58,6 +60,7 @@ https://github.com/user-attachments/assets/74c81a9e-9154-4d1b-9078-afd82155424f
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
 You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism)
+
 </br>
 
 ## Your all-in-one learning hub! 
