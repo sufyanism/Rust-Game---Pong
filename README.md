@@ -3,6 +3,8 @@
 A simple implementation of the classic Pong game built in Rust. This project showcases basic graphics rendering, user input handling, and game physics using the `piston` game engine.
 
 ![Screenshot or GIF of the game](path/to/screenshot.png)
+
+</br>
 https://github.com/user-attachments/assets/74c81a9e-9154-4d1b-9078-afd82155424f
 
 ---
@@ -54,6 +56,7 @@ cargo build
 cargo run
 # Rust Pong Game.
 It simulates a table tennis match where two players control their paddles while attempting to hit the ball past their opponent.
+```
 
 ### Prerequisites
 Set Up the Project “edit name as per choice”
