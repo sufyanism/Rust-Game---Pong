@@ -1,5 +1,8 @@
+
 # Rust Pong Game
 A simple implementation of the classic Pong game built in Rust. This project showcases basic graphics rendering, user input handling, and game physics using the `piston` game engine.
+
+</br>
 
 ## Setup & Installation
 ```
@@ -16,16 +19,22 @@ cargo run
 It simulates a table tennis match where two players control their paddles while attempting to hit the ball past their opponent.
 ```
 
+</br>
+
 ### Tools and Libraries
 *	Piston: A modular game engine in Rust. It provides functionalities such as handling events (keyboard, mouse, etc.), rendering graphics, and managing game windows.
 *	OpenGL: A widely-used graphics library that helps render 2D and 3D graphics. The opengl_graphics crate is used to interface with OpenGL for rendering.
 *	Graphics: A simple library that provides useful primitives (like rectangles) for rendering graphics in a 2D space.
-  
+
+</br>
+
 ## Features
 - Two-player gameplay with keyboard controls
 - Real-time paddle and ball movement
 - Basic collision detection and physics
 - Score tracking (future implementation planned)
+
+</br>
 
 ## Design Overview
 The game window contains:
@@ -43,7 +52,7 @@ The game window contains:
 ## Screencast
 https://github.com/user-attachments/assets/74c81a9e-9154-4d1b-9078-afd82155424f
 
-<div style="margin-top:20px;"></div> <!-- adds space above -->
+</br>
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
@@ -53,7 +62,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ## Your all-in-one learning hub! 
 🚀 Explore courses and resources in coding, tech, and development at **zeba.academy** and **code.zeba.academy**. Empower yourself with practical skills through curated tutorials, real-world projects, and hands-on experience. Level up your tech game today! 💻✨
 
-<div style="margin-top:60px;"></div> <!-- adds space above -->
+</br>
 
 **Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
 ➡ Visit our main site: [zeba.academy](https://zeba.academy)   </br>
@@ -61,7 +70,6 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Check out our YouTube for more tutorials: [zeba.academy](https://www.youtube.com/@zeba.academy)  </br>
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
 
-
-<div style="margin-top:30px;"></div> <!-- adds space above -->
+</br>
 
 **Thank you for visiting!** 
