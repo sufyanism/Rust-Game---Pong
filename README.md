@@ -52,8 +52,8 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 
 ## Your all-in-one learning hub! 
 🚀 Explore courses and resources in coding, tech, and development at **zeba.academy** and **code.zeba.academy**. Empower yourself with practical skills through curated tutorials, real-world projects, and hands-on experience. Level up your tech game today! 💻✨
-</br>
-<div style="margin-top:10px;"></div> <!-- adds space above -->
+
+<div style="margin-top:60px;"></div> <!-- adds space above -->
 
 **Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
 ➡ Visit our main site: [zeba.academy](https://zeba.academy)   </br>
@@ -61,7 +61,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Check out our YouTube for more tutorials: [zeba.academy](https://www.youtube.com/@zeba.academy)  </br>
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
 
-</br>
+
 <div style="margin-top:30px;"></div> <!-- adds space above -->
 
 **Thank you for visiting!** 
